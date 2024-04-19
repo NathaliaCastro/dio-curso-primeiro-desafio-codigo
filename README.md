@@ -33,7 +33,7 @@ O objetivo desse curso é ensinar brevemente os seguintes tópicos:
 
 # 💻 Mais informações
 
-O curso é ministrado por [Leonardo Buta]("https://github.com/leonardo-buta), que atua como Desenvolvedor .NET.
+O curso é ministrado por [Leonardo Buta](https://github.com/leonardo-buta), que atua como Desenvolvedor .NET.
 
 Após a conclusão das aulas, é necessário realizar um teste de conhecimento e ter no mínimo 70% de acerto nas questões para emissão do certificado.
 
