@@ -1,0 +1,14 @@
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.exe
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.deps.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.runtimeconfig.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.pdb
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.AssemblyInfoInputs.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.AssemblyInfo.cs
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\refint\PrimeiroDesafio.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.pdb
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.genruntimeconfig.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(3) Video Aulas - .Net\(3) .Net\PrimeiroDesafio\obj\Debug\net8.0\ref\PrimeiroDesafio.dll
