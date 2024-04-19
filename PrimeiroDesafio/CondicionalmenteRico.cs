@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-// DESAFIO 1 - PRIMEIRO TESTE  >> 1 / 4 Testes de abertos tiveram sucesso. (Teste #4) - FALHOU
+// PRIMEIRO TESTE DE EXECUÇÃO >> Retornado erro: 1 / 4 Testes de tiveram sucesso.
 
 // int saldoTotal = int.Parse(Console.ReadLine());
 // int valorSaque = int.Parse(Console.ReadLine());
@@ -21,9 +21,7 @@ using System.Threading.Tasks;
 
 
 
-
-
-// DESAFIO 1 - SEGUNDO TESTE >> 1 / 4 Testes de abertos tiveram sucesso. (Teste #4) - FALHOU
+// SEGUNDO TESTE DE EXECUÇÃO >> Retornado erro: 1 / 4 Testes tiveram sucesso.
 
 // int saldoTotal = int.Parse(Console.ReadLine());
 // int valorSaque = int.Parse(Console.ReadLine());
@@ -48,26 +46,22 @@ using System.Threading.Tasks;
 
 
 
+// TERCEIRO TESTE DE EXECUÇÃO >> Retornado sucesso: 4 / 4 Testes tiveram sucesso. Clique em "ENTREGAR DESAFIO" para finalizar.
 
+int saldoTotal = int.Parse(Console.ReadLine()); 
+   //Declarando inteiro e convertando em String
 
-// DESAFIO 1 - TERCEIRO TESTE >> 4 / 4 Testes de abertos tiveram sucesso. Clique em "ENTREGAR DESAFIO" para finalizar.
+int valorSaque = int.Parse(Console.ReadLine()); 
+   //Declarando inteiro e convertando em String
 
-// int saldoTotal = int.Parse(Console.ReadLine()); 
-// //Declarando inteiro e convertando em String
+int saldoDisponivel = saldoTotal - valorSaque;
+   //Declarando a variavel SALDO_DISPONIVEL para obter o saldo após efetuar o saque
 
-// int valorSaque = int.Parse(Console.ReadLine()); 
-// //Declarando inteiro e convertando em String
-
-//         //TODO: Criar as condições necessárias para impressão da saída, vide tabela de exemplos.
-
-// int saldoDisponivel = saldoTotal - valorSaque;
-// //Declarando a variavel SALDO_DISPONIVEL para obter o saldo após efetuar o saque
-
-// if (saldoTotal >= valorSaque) {
-//     //Para o saldo da conta MAIOR ou IGUAL o valor do saque
-// 	Console.WriteLine($"Saque realizado com sucesso. Novo saldo: {saldoDisponivel}");
-// }
-//     else {
-//     //Para o saldo da conta MENOR que o valor do saque
-// 	Console.WriteLine("Saldo insuficiente. Saque nao realizado!");
-// }
+if (saldoTotal >= valorSaque) {
+   //Para o saldo da conta MAIOR ou IGUAL o valor do saque
+Console.WriteLine($"Saque realizado com sucesso. Novo saldo: {saldoDisponivel}");
+}
+else {
+   //Para o saldo da conta MENOR que o valor do saque
+Console.WriteLine("Saldo insuficiente. Saque nao realizado!");
+}
