@@ -3,26 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-// PRIMEIRO TESTE DE EXECUÇÃO >> Retornado erro: 0 / 3 Testes tiveram sucesso.
-
-// List<string> itens = new List<string>(3);
-
-// for (int contador = 0; contador < itens; contador++)
-// {
-// 	Console.WriteLine("{item1[contador]}");
-// }
-
-// Console.WriteLine("Lista de itens:");
-// foreach (string item in itens)
-// {
-//         Console.WriteLine($"- {item}");
-// }
-
-
-
-
-// SEGUNDO TESTE DE EXECUÇÃO >> Retornado sucesso: 3 / 3 Testes tiveram sucesso. Clique em "ENTREGAR DESAFIO" para finalizar.
-
 List<string> itens = new List<string>();
    //Lista para armazenar os itens
 
